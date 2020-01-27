@@ -127,7 +127,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 344}
   m_MaxSize: {x: 22012, y: 10022}
   vertical: 0
-  controlID: 119
+  controlID: 151
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +152,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 344}
   m_MaxSize: {x: 4004, y: 8044}
   vertical: 1
-  controlID: 15
+  controlID: 70
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -316,14 +316,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Unity\Repozytoria\Arkanoid\Repozytoria\NumberWizard_AdamCichy\TextGame_AdamCichy\GearVR_AdamCichy\GearVR_02_AdamCichy
+  m_LastProjectPath: C:\Users\adminZDZ\Documents\GearVR_AdamCichy\GearVR_02_AdamCichy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b82d0000
     m_LastClickedID: 11704
-    m_ExpandedIDs: 00000000043b00000e3c0000163c0000803c00008a3c0000483d0000
+    m_ExpandedIDs: 00000000e02e0000ea2f0000f22f00005c3000006630000024310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -351,7 +351,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000043b00000e3c0000163c0000803c00008a3c0000483d0000
+    m_ExpandedIDs: ffffffff00000000e02e0000ea2f0000f22f00005c3000006630000024310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,8 +474,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 42faffff
+      m_LastClickedID: -1470
       m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
